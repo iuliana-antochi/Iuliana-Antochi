@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm Iuliana, a motivated person working towards discovering my passion. I believe that frontend development could be it!</h1>
-<h3 align="center">A passionate frontend developer from Romania</h3>
 
 - 🔭 I’m currently working on **News homepage from Frontend Mentor**
 
