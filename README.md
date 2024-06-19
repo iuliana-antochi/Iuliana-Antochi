@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Iuliana, a motivated person working on becoming a Frontend Developer!</h1>
 
-- 🔭 I’m currently working on: **News homepage from Frontend Mentor**
+- 🔭 I’m currently working on: **Pokemon App**
 
 - 🌱 I’m currently learning: **HTML5, CSS, JavaScript, React**
 
