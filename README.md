@@ -18,9 +18,9 @@ I'm a motivated person pursuing a career in Frontend Development.
 
 Check out some of my projects:
 
-- [**Pokemon App:**](https://pokeapp-snowy.vercel.app/page/1) A React app to explore the world of Pokemons.
-- [**News Homepage:**](https://iuliana-antochi.github.io/news-homepage-main/) A modern design for a news website.
-- [**Jamming:**](http://milky-crowd.surge.sh/) A music discovery app.
+- [Pokemon App:](https://pokeapp-snowy.vercel.app/page/1) A React app to explore the world of Pokemons.
+- [News Homepage:](https://iuliana-antochi.github.io/news-homepage-main/) A modern design for a news website.
+- [Jamming:](http://milky-crowd.surge.sh/) A music discovery app.
 
 ## 📫 Let's Connect
 
