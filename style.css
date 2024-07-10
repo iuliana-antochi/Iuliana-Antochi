@@ -1,0 +1,97 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+}
+
+div,
+span,
+h1,
+h2,
+h3,
+p,
+a,
+ul,
+img,
+header {
+  margin: 0;
+  padding: 0;
+}
+
+/* Body */
+
+body {
+  font-family: Cambria, Cochin, Georgia;
+}
+
+/* Print */
+
+.print-container {
+  max-width: 21cm;
+  min-height: 29.7cm;
+  padding: 10mm 0 10mm 0;
+  margin-block: 1.5rem;
+  margin-inline: auto;
+  border: 1px solid black;
+}
+
+.print-container {
+  display: grid;
+  grid-template-columns: 0.3fr 0.7fr;
+  grid-template-rows: 1fr;
+  padding: 40px;
+  gap: 20px;
+}
+
+@media print {
+  .print-container {
+    border: none;
+    margin-block: none;
+    margin: 20px;
+  }
+}
+
+/* Left-side */
+
+ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+/* Header */
+
+.portrait {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+h2,
+.education,
+span {
+  color: #006400;
+  margin-bottom: 20px;
+}
+
+/* Main */
+
+main {
+  margin-left: 20px;
+}
