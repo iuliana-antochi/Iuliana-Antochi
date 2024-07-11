@@ -88,6 +88,10 @@ span {
   margin-bottom: 20px;
 }
 
+.github {
+    font-weight: bold;
+}
+
 /* Main */
 
 main {
