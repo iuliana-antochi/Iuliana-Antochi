@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const main = document.querySelector(".print-container main");
 
   function moveElements() {
-    const isMobile = window.innerWidth <= 768;
+    const isMobile = window.innerWidth <= 600;
     const targetElement = isMobile ? header.parentNode : main;
     const insertBeforeElement = isMobile ? header : null;
 
