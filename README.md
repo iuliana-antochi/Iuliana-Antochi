@@ -20,7 +20,7 @@ I'm a motivated person pursuing a career in Frontend Development.
 
 Check out some of my projects:
 
-[Pokemon App](https://pokeapp-snowy.vercel.app/page/1): A React app to explore the world of Pokemons. 
+<a href="https://pokeapp-snowy.vercel.app/page/1" target="_blank">Pokemon app </a>: A React app to explore the world of Pokemons. 
 
 **Highlights** :
 - Usage of custom hook for fetching
