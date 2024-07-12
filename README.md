@@ -18,21 +18,29 @@ I'm a motivated person pursuing a career in Frontend Development.
 
 ## 💼 Portfolio
 
-Check out some of my projects:
+### Pokemon app
+- **Description**: A React app to explore the world of Pokemons. 
 
-[Pokemon app](https://pokeapp-snowy.vercel.app/page/1): A React app to explore the world of Pokemons. 
+- **Repository**: https://github.com/iuliana-antochi/pokemon-app
 
-**Highlights** :
-- Usage of custom hook for fetching
-- Usage of React Router to manage state of the application
-- Optimization of CSS for responsive design
+- **URL**: https://pokeapp-snowy.vercel.app/page/1
 
-[News Homepage](https://iuliana-antochi.github.io/news-homepage-main/): A modern design for a news website.
+- **Highlights** :
+  - Usage of custom hook for fetching
+  - Usage of React Router to manage state of the application
+  - Optimization of CSS for responsive design
 
-**Highlights**:
- - Usage of semantic HTML
- - Improvement of accesibility
- - Image optimization
+ ### News Homepage
+- **Description**: A modern design for a news website.
+
+- **Repository**: https://github.com/iuliana-antochi/news-homepage-main
+
+- **URL**: https://iuliana-antochi.github.io/news-homepage-main/
+
+- **Highlights** :
+  - Usage of semantic HTML
+  - Improvement of accesibility
+  - Image optimization
 
 ## 📫 Let's Connect
 
