@@ -3,7 +3,7 @@
 I'm a motivated person pursuing a career in Frontend Development.
 
 ## 🌱 What I'm Currently Enrolled to
-- Developent of an E-commerce website where I'm expanding my knowledge of Frontend Development
+- Development of an E-commerce website where I'm expanding my knowledge of Frontend Development
 
 ## 🚀 My Skills
 
